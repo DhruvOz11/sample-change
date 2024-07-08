@@ -43,6 +43,21 @@ const products = [
         base_name: '(P1/P2/N1/N2/P0)',
         mesh: '(60# /80# /120# /etc)',
         images: ['bucket.jpg', 'PRO02.jpg']
+    },
+    {
+        code: 'KC8995',
+        name: 'HS DS ELASTO',
+        quantity: '20 Litre',
+        mfg_month: '07/2024',
+        price: 'Rs 7879.00',
+        price_per_ltr: 'Rs 393.95/Litre',
+        scanner_code: 'P+F00KC80991020000T+310/12345/07-2024D+1',
+        token_image: 'KC8995',
+        address: 'Berger House, 129 Park Street, Kolkata 700017',
+        bucket_empty: '(1.060 ±0.03)Kg',
+        base_name: '(P1/P2/N1/N2/P0)',
+        mesh: '(60# /80# /120# /etc)',
+        images: ['PRO02.jpg', 'lid.jpg']
     }
 ];
 
